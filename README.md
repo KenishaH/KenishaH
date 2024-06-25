@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="100%" height="auto" />
 </div>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Ke'Nisha Hope 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/></a>
@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me:
-I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Interests] and love to create innovative solutions.
+I am a junior developer based in [Your Location]. I have a passion for [Your Interests] and love to create innovative solutions.
 
 - 🔭 I'm currently working on [Your Current Project]
 - 🌱 I'm currently learning [What You're Learning]
@@ -35,7 +35,7 @@ I am a [Your Job Title] based in [Your Location]. I have a passion for [Your Int
 
 ### 📈 GitHub Stats:
 
-[[YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[![Kenisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenishaH&show_icons=true&theme=radical)](https://github.com/KenishaH/github-readme-stats)
 
 
 ### 📚 Latest Blog Posts
